@@ -33,7 +33,7 @@
 | الملف | الوصف |
 |---|---|
 | `ML_Project_HeartDisease(3).ipynb` | النوتبوك الرئيسي الكامل (EDA + KNN + Decision Tree + المقارنة) |
-| `MLpro_ByHanenAndOmar.ipynb` | نوتبوك يركز على نموذج Decision Tree وضبط إعداداته |
+| `MlPro.ipynb` | نوتبوك يركز على نموذج Decision Tree وضبط إعداداته |
 | `processed.cleveland.data` | بيانات مرض القلب (UCI Cleveland) |
 | `heart-disease.names` | وصف الأعمدة والبيانات |
 
